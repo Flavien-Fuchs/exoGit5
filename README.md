@@ -1,3 +1,4 @@
+REMOTE
 # exoGit5
 
 j'écris quelques lignes
